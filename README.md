@@ -24,7 +24,7 @@ provide personalized guidance, fostering a sense of community and cooperation.
 The features of Career MapQuest and Skills Craft Hub are:
 • Personality and Interest Assessment: Assess your personality and interests to find the career
 that suits you the best.
-• Aptitude Test: Utilize university-specific aptitude tests to determine your strengths and competencies.
+• Aptitude Test: Utilize university-specific aptitude tests to determine your strengths and competencies.
 • Skill Test: Check your skill level to identify the areas of improvement.
 • Career Recommendation on Skill-Based: Receive personalized career advice based on your
 skills.
