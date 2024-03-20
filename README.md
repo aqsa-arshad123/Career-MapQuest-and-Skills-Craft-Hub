@@ -10,8 +10,8 @@ an individual’s chances of finding employment in expanding industries
 **Goals and Objectives**
 1. Personalized Career Guidance: To help individuals identify their strengths, interests, and abilities to
 provide appropriate career possibilities for well-informed decisions.
-2. Comprehensive Resource Hub: To provide a comprehensive platform with current career and admissions information to facilitate decision-making for academic and professional choices..
-3. Courses and Job Recommendations: To evaluate users’ skills set and suggest ways to enhance or acquire new skills required for their desired careers. Moreover, to suggest jobs and careers by analysing
+2. Comprehensive Resource Hub: To provide a comprehensive platform with current career and admissions information to facilitate decision-making for academic and professional choices..
+3. Courses and Job Recommendations: To evaluate users’ skills set and suggest ways to enhance or acquire new skills required for their desired careers. Moreover, to suggest jobs and careers by analysing
  CVs and skills of the users respectively.
 4. Skills Evaluation: To evaluate the users’ competencies and skills through various assessments like
 skills test and aptitude test for checking the areas of improvement necessary for their desired careers or
